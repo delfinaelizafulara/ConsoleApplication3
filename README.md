@@ -7,4 +7,6 @@ Wyróżniamy dwa główne rodzaje polimorfizmu:
 - Statyczny - polega na przeciążeniu metod i operatorów. Oznacza to, że w jednej klasie może istnieć wiele metod o tej samej nazwie, ale różniących się listą parametrów. Wybór odpowiedniej metody następuje w czasie kompilacji na podstawie liczby i typów argumentów. Nie jest możliwe przeciążanie metod różniących się wyłącznie typem zwracanym.
 
   
-- Dynamiczny - polega na nadpisywaniu metod w klasach pochodnych (override). Jest związany z dziedziczeniem i wykorzystuje mechanizm wiązania dynamicznego, co oznacza, że wybór odpowiedniej metody następuje w czasie działania programu, na podstawie rzeczywistego typu obiektu. 
+- Dynamiczny - polega na nadpisywaniu metod w klasach pochodnych (override). Jest związany z dziedziczeniem i wykorzystuje mechanizm wiązania dynamicznego, co oznacza, że wybór odpowiedniej metody następuje w czasie działania programu, na podstawie rzeczywistego typu obiektu.
+- 
+<img width="1024" height="559" alt="obraz" src="https://github.com/user-attachments/assets/bdc3ec1c-7ad9-439e-a824-5986c7f06aa8" />
